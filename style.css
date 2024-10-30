@@ -1,0 +1,45 @@
+/* Add styles here */
+body{
+    background-image: url("/image/5995587.jpg");
+    background-repeat: no-repeat;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navBar{
+    padding: 0px;
+    background-color:white;
+    opacity: 50%;
+}
+#navBarMenu{
+   text-align: right;
+   padding: 5px;
+    
+}
+.navBarMlist{
+    list-style: none;
+
+}
+ul.navBarMlist > li{
+    display: inline-block;
+    padding: opx 5px;
+}
+ul.navBarMlist >li > a{
+    color: black;
+    text-decoration: none;
+}
+ul.navBarMlist > li > a:haver{
+    color: red;
+}
+.navBarBrand{
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 2px 2px 10px black;
+    padding: 10px 5px 0px 20px; 
+}
+.text1{
+    font-size: 24px;
+    position: relative;
+    top: 200px;
+    left 5%;
+}
